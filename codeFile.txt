@@ -1,0 +1,5 @@
+( fun soma [ ( inteiro a ) ( inteiro b ) ] : inteiro
+	( inteiro aux )
+	( = aux ( + a ( sub a b ) ) )
+	( retorna aux )
+)
