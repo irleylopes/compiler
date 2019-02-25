@@ -1,5 +1,8 @@
 ( fun soma [ ( inteiro a ) ( inteiro b ) ] : inteiro
+    ( texto modelo )
+    ( = modelo "aqui tem um modelo de String" )
 	( inteiro aux )
 	( = aux ( + a ( sub a b ) ) )
 	( retorna aux )
+	# comentario
 )
