@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Read {
+public class ReadFile {
 
     private static final String CHARSET  = "UTF-8";
 

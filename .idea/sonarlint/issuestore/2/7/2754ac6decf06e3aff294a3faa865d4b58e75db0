@@ -1,0 +1,8 @@
+
+msquid:UnusedPrivateMethod+"<Remove this unused private "separationTokensOfLines" method.(êò¾àûÿÿÿÿ8ØŒ›‚’-
+Osquid:S1602-",Remove useless curly braces around statement(±ÆÂÀøÿÿÿÿ8ØŒ›‚’-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(žúÙ8ÐÕž‚’-
+jsquid:UnusedPrivateMethod"9Remove this unused private "separationListTokens" method.(ôÇ—Öüÿÿÿÿ8ØŒ›‚’-
+zsquid:S3973"WUse curly braces or indentation to denote the code conditionally executed by this "if".(üæ¦­ùÿÿÿÿ8ØŒ›‚’-
+rsquid:S3973"WUse curly braces or indentation to denote the code conditionally executed by this "if".(‹‡’
+8ØŒ›‚’-
